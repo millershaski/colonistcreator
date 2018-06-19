@@ -1,0 +1,14 @@
+{
+"companyName": "Ominux Games",
+"productName": "Starmancer Colonist Creator",
+"dataUrl": "web build.data.unityweb",
+"asmCodeUrl": "web build.asm.code.unityweb",
+"asmMemoryUrl": "web build.asm.memory.unityweb",
+"asmFrameworkUrl": "web build.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
